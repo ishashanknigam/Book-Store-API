@@ -13,11 +13,11 @@ This is a Book Store API built using Node.js, Express, and MongoDB. It provides 
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/bookstore-api.git
+   git clone https://github.com/ishashanknigam/Book-Store-API.git
    ```
 2. Navigate to the project directory:
    ```sh
-   cd bookstore-api
+   cd Book-Store-API
    ```
 3. Install dependencies:
    ```sh
