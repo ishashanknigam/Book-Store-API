@@ -1,6 +1,6 @@
 # Book Store API
 
-This is a simple Book Store API built using Node.js, Express, and MongoDB. It provides endpoints to manage a collection of books, allowing users to perform CRUD operations.
+This is a Book Store API built using Node.js, Express, and MongoDB. It provides endpoints to manage a collection of books, allowing users to perform CRUD operations.
 
 ## Features
 - Get all books
